@@ -11,4 +11,4 @@ puts bar
 
 my_name = "Marko"
 puts "My name is " + my_name
-puts my_name.strip[0]
+puts my_name.strip[0, 4]
