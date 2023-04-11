@@ -9,6 +9,6 @@ foo = bar
 bar = foo.concat(" yesterday #{baz}")
 puts bar
 
-my_name = "   Marko"
+my_name = "Marko"
 puts "My name is " + my_name
 puts my_name.strip[0]
